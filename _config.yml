@@ -1,0 +1,28 @@
+name: nmd
+favicon: null
+layout_spectrum: 0.8596225685905665
+typography_spectrum: 0.8352136621251702
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9420691777486354
+  lightness: 0.5387103469111025
+  saturation: 0.8599641779437661
+  rhythmicContrast: 0.10487469634972513
+purpose: []
